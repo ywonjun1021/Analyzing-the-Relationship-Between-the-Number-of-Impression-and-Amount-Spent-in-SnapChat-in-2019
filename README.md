@@ -25,6 +25,10 @@ Since spending is 0, I can interpret that it has a very good correlation.
 
 ## Linear Regression Graph for Number of Impression and Amount Spent in 2019
 
-![alt text]
+![alt text](https://github.com/ywonjun1021/Analyzing-the-Relationship-Between-the-Number-of-Impression-and-Amount-Spent-in-SnapChat-in-2019/blob/master/Graph-%20project%202.png)
+
+The linear line is a positive slope, showing that the more amount of money spent, the more number of impression there will be. 
+
+
 
 
