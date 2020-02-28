@@ -23,8 +23,9 @@ Thus, I can interpret that it has a very good correlation.
 
 The positive slope shows that there are more number of impressions with more amount of money.
 
-Even though you will get more number of impressions with more money spent, I think there should be a good balance on how much money they spend. The more money spent, the less profit they will get. However, if they spend a small amount of money, the number of impressions will be low,
-In the future, i think they should hire Mathematicians or Statisticians to analyze the correct amount of money they should spend. 
+My question was will more money result in more impression? Also is there a case that there are more impressions with a lower amount of money spent?
+The answer was yes, more money spent will bring more impression. Thus, if you would want to support a certain candidate, funding would be a best option to support him or her. 
+Also, there were cases that there were more impressions with less amount of money spent. I think that is becuase the ads were more interesting that attracted people to click on it more.
 
 
 
