@@ -1,0 +1,23 @@
+After I got the data, I filtered it so I could only get the 2019 data.
+Then, I deleted start date and the end date, and created a new column of 'duration.'
+With it, I was able to see the length of the time or duration clearly and easily.
+
+Afterward, I used 'regression' in 'data analysis' to analyze the data in depth. (found in 'data' tool)
+
+Interpreting the regression output:
+R squared represents the percent of the data that can be represented by this line. 
+The higher the R squared is, the better because that means that the line will be more accurate.
+Based on the regression output, R squared was 0.742, meaning that 74 percent of the data is shown using this model
+
+Significance F is the probability of non of the variables having an impact for impression.
+The lower the better, since I got 0, it shows that variables are impacting the impression
+
+If the P-value is greater than 0.5, that means the statistic is a bad representation.
+Since spending is 0, I can interpret that it has a very good correlation. 
+
+Then, I created a scatter plot. In the x-axis, I had amount spent, and in the y-axis, I had number of impression.
+I created a linear regression line, and changed it to a solid line instead of dotted line so it could be seen clearly.
+I created the axis titles and a title.
+
+The linear line is a positive slope, showing that the more amount of money spent, the more number of impression there will be. 
+
